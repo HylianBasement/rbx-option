@@ -16,7 +16,12 @@
     "README.md"
   ],
   "publishConfig": {
-    "access": "public"
+    "access": "public",
+    "registry":"https://npm.pkg.github.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rimuy/rbxts-option.git"
   },
   "devDependencies": {
     "@rbxts/compiler-types": "^1.1.1-types.5",
