@@ -1,0 +1,25 @@
+{
+  "name": "@rbxts/option",
+  "version": "1.0.0",
+  "description": "A TypeScript port of Sleitnick's Option module",
+  "main": "src/init.lua",
+  "typings": "src/index.d.ts",
+  "scripts": {
+  },
+  "keywords": [
+    "Roblox",
+    "option"
+  ],
+  "author": "",
+  "files": [
+    "out",
+    "README.md"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "devDependencies": {
+    "@rbxts/compiler-types": "^1.1.1-types.5",
+    "@rbxts/types": "^1.0.496"
+  }
+}
