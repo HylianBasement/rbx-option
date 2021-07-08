@@ -12,7 +12,7 @@
   ],
   "author": "",
   "files": [
-    "out",
+    "src/*",
     "README.md"
   ],
   "publishConfig": {
