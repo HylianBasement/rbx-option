@@ -1,6 +1,6 @@
 {
   "name": "@rbxts/option",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A TypeScript port of Sleitnick's Option module",
   "main": "src/init.lua",
   "typings": "src/index.d.ts",
