@@ -283,5 +283,7 @@ end
 
 Option.None = Option._new()
 
+-- TypeScript support --
+Option.default = Option
 
 return Option
